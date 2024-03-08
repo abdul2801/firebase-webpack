@@ -3,12 +3,12 @@
 // use require instead of import
 import firebase from 'firebase/compat/app';
 const firebaseConfig = {
-    apiKey: "AIzaSyAB5SYXQCGrGV5sv0vNmU94_gOdtSr_rcQ",
+    apiKey: "Enter API KEY",
     authDomain: "spry-truck-396704.firebaseapp.com",
     projectId: "spry-truck-396704",
     storageBucket: "spry-truck-396704.appspot.com",
     messagingSenderId: "639103350444",
-    appId: "1:639103350444:web:52d02c93b29eae1de05109",
+    appId: "Enter app Id",
     measurementId: "G-L002QQ92FX"
   };
 
